@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account, and seasonable improvement of the late earthquake in Northampton-shire, Jan. 4, 1675/6 in a letter to a friend in London.</title>
+            <author>N. N.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52698</idno>
+            <idno type="STC">Wing N29</idno>
+            <idno type="STC">ESTC R17290</idno>
+            <idno type="EEBO-CITATION">11861881</idno>
+            <idno type="OCLC">ocm 11861881</idno>
+            <idno type="VID">50023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52698)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 502:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account, and seasonable improvement of the late earthquake in Northampton-shire, Jan. 4, 1675/6 in a letter to a friend in London.</title>
+                  <author>N. N.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathaniel Ponder ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1675/6]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: N.N.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  England --  Northamptonshire.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:50023:1"/>
+            <pb n="1" facs="tcp:50023:1" rendition="simple:additions"/>
+            <head>A Brief ACCOUNT, and ſeaſonable IMPROVEMENT of the late EARTHQUAKE in <hi>Nor<g ref="char:EOLhyphen"/>thampton-ſhire, Jan.</hi> 4. 1675/6. In a Letter to a Friend in <hi>London.</hi>
+            </head>
+            <argument>
+               <p>Licenſed <hi>Jan.</hi> 27. 1675/6 <hi>Roger L'eſtrange.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAd I not long ſince been aſſured that the Deſigns of all your Enquiries are ſober, and pious, bec<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming a Chriſtian, your Importunity to be ſatisfied in the circumſtances of the late Concuſſion, had knockt at my Door in vain. For I am ſeldom at ſo deſperate a loſs how to entertain my ſelf, or beſtow my ſubce<g ref="char:EOLhyphen"/>ſive H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, that I ſhould be neceſſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ated to fill up my Thoughts with, or place out my leaſure Minutes upon the Gratifying <hi>the Itch of Curioſity;</hi> A Salt Humour which while we ſtrive to <hi>pleaſe by Scratching,</hi> we do but the more <hi>irritate it's Pruriency,</hi> which in time w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll iſſue out in <hi>the Scab of Impertinency.</hi>
+            </p>
+            <p>I have ever reckoned it amongſt the Symptomes of a degnerate Age, that Men fill up their converſes much like the <hi>Athenians,</hi> who <hi>ſpent their time in nothing elſe but either to tell, or hear ſome</hi> new thing.<note place="margin">
+                  <hi>Act.</hi> 17.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> Their <hi>Parturient Tongues</hi> either groaning to be delivered of, or their <hi>Itching Ears</hi> long<g ref="char:EOLhyphen"/>ing to be tickled with <hi>Novelties,</hi> and <hi>Prodiges:</hi> for hence is it, that the moſt <hi>Tremendous Providences</hi> of God evaporate into <hi>Idle Chat;</hi> And ſerve to furniſh out the triflings of a <hi>Coffee-houſe,</hi> but rarely <hi>ſink down into the Heart,</hi> to beget a Holy Admiration of the Divine Majeſty, <hi>which removeth the Mountains, and they know it not; which overturneth them in his Anger;</hi>
+               <note place="margin">
+                  <hi>Job</hi> 9.5 6</note> 
+               <hi>which ſhaketh the Earth out of her place, and the Pillars thereof Tremble.</hi>
+            </p>
+            <p>But though you ſeem in great haſt to receive information in the particu<g ref="char:EOLhyphen"/>lars of this <hi>Phaenomenon,</hi> that you will neither allow me room of <hi>Time or Paper</hi> to turn my Pen in, and I am obliged to <hi>make Brick without Straw<g ref="char:punc">▪</g>
+               </hi> Yet muſt I beg your pardon if I demur a little, <hi>whether it were an Earth<g ref="char:EOLhyphen"/>quake
+<pb n="2" facs="tcp:50023:2"/>
+or no?</hi> for you muſt confeſs it hugely Prepoſterous to enquire, <hi>De Modo rei, ubi nondum conſtat de re:</hi> To be ſolicitous and elaborate a<g ref="char:EOLhyphen"/>bout <hi>Accidents</hi> and <hi>Circumſtances,</hi> before we are arrived at a plerophery of <hi>the thing it ſelf.</hi>
+            </p>
+            <p>And all the Reaſon in the World will oblige us to ſuſpend a while this Narrative, ſince I can aſſure you, ſome Learned Perſons are confident it was no Earthquake, cauſed by Subterraneous Fires, or Exhalations, but <hi>A Concuſſion of the Air, by a Cavalcade of Spirits Trooping it through the Lower Region.</hi> But whither theſe Spirits were <hi>Bound;</hi> or where was the Place of their <hi>Rendezvous,</hi> or upon what <hi>Errand</hi> they w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <hi>Diſpatcht,</hi> or whether they were <hi>Celeſtial Courtiers,</hi> or of the <hi>Black Guard of Pluto,</hi> they are not pleaſed to inform us.</p>
+            <p>I lookt upon't as <hi>a Blot in the Eſcutcheon of the old Philoſophy,</hi> that it aſ<g ref="char:EOLhyphen"/>ſigns a diſtinct <hi>Intelligence</hi> to every of the <hi>Orbes,</hi> where they are placed (like Children at the Spinning-Wheel,) to whirle about the Spheres, be<g ref="char:EOLhyphen"/>cauſe they could not elſe conceive a Reaſon of their perpetual Motions: And as 'twas a violation of the Sacred Laws of <hi>Comaedy</hi> to introduce <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>an Angel from Heaven</hi> to extricate <hi>the poor Poet,</hi> when he had run his wits into confuſion with his own Plots; ſo it looks but oddly to have recourſe to <hi>Spirits</hi> and <hi>Daemons,</hi> when the caſe admits of <hi>fair Salvo's,</hi> and may ſpare theſe <hi>extraordinary contrivances.</hi>
+            </p>
+            <p>But the Naked matter of Fact is the beſt confutation of this ingenious Fancy, and I ſhall now as briefly, as impartially, addreſs my ſelf to the Re<g ref="char:EOLhyphen"/>lation of it.</p>
+            <p>On Tueſday the 4th of this inſtant <hi>January,</hi> about 8 of the Clock at N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, being alo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in a room remote from all deſtracting Noiſe, and diſturb<g ref="char:EOLhyphen"/>ing Company (circumſtances advantagious for Obſervation) I was ſudden<g ref="char:EOLhyphen"/>ly ſtartled from ſome fixedneſs of thoughts, by a Loud, Roaring, Hollow, Terrible Noiſe. And I was the more ſurprized with it, and concerned to attend unto it, becauſe I had obſerved that all that preceding Day, and Evening there was not the leaſt Whiſper, or Breath of Wind ſtirring: I preſen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly fancied that a Chimney in the next Rooom had taken Fire, the Roaring noiſe of which this did exactly imitate, as formerly being in the ſame place I had met with a terrifying experiment; and indeed up in after conſultati <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n with others I found many concurring in the ſame apprehenſi<g ref="char:EOLhyphen"/>ons; but this conjecture as it ſuddenly entred, ſo it as ſuddenly vaniſhed, when I heard the <hi>Window to ſhake and tremble,</hi> as if the Decrepit Glaſs would immediately have dropt down, <hi>the Floor of the Chamber over my Head to Crack</hi> once and again, and <hi>the Houſe it ſelf ſeem to Totter;</hi> I wond<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed that ſuch a guſt of Wind ſhould aſſault the Houſe, but upon ſtri<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t ob<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ervation I could not diſcern or Tree or Buſh to move; Thus be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng much amazed (for I will not conceal my ſecret fears,) my Heart ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ok as much as the Houſe, and I ſet my ſelf with what compoſedneſs I cou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d command, to expect the iſſue, and in half a quarter of an hour or leſs,
+<pb n="3" facs="tcp:50023:2"/>
+the Noiſe, and together with it the Shaking, ceaſed: and this in ſhort is the total of my perſonal Obſervation.</p>
+            <p>Should I tell you what Informations I have received from o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her perſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns, and Places, that ſome did ſenſibly feel the Chaires wherein they ſat to ſhake under them; that others ſtanding upon their feet were apparently ſeen to ſtagger; that one had his Book almoſt ſhaken out of his Hands; with the terrour that ſeized them; and to give you all this, and much more ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lemn<g ref="char:EOLhyphen"/>ly atteſted under the Hands of Perſons of unqueſtionable Credit, and of Cautelous Judgments, not to be impoſed upon by <hi>Panick Fears,</hi> I conceive perfectly ſuperfluous: for though ſome may haeſitate at <hi>the Cauſe,</hi> yet none amongſt us do queſtion <hi>the Truth of the Thing;</hi> and for you at this diſtance, as I cannot create you a Faith, nor force you to a belief of my Teſtimony, ſo am I not much Ambitious of it.</p>
+            <p>They who are of ſuch <hi>wary Heads,</hi> that they will ſuſpect what Hun<g ref="char:EOLhyphen"/>dreds will readily avouch, do but teach others to ſuſpect their moſt confident Aſſertions, and as St. <hi>Auſtin</hi> in another caſe, <hi>He that believes not the Mi<g ref="char:EOLhyphen"/>racles of Chriſt, is himſelf the greateſt Miracle;</hi> ſo will I take the freedom to ſay, He that believes not <hi>a Fact,</hi> in which all Men uniformly, and unani<g ref="char:EOLhyphen"/>mouſly concur, deſerves never to be believed: And let ſuch a one wear the ſame Feather which the conceited <hi>Hobbes</hi> carries in his Cap; <hi>Aut ego ſolus inſanio, aut omnes inſaniunt; Either the</hi> Leviathan <hi>alone was out of his wits, or elſe all the World.</hi> And which of the Two is moſt probable is of no difficult Determination.</p>
+            <p>There are nevertheleſs Three or Four particulars, which if you deſpiſe as below your notice, yet I judged them worthy of mine.</p>
+            <p n="1">1. That there had been all the Day before this terrible Concuſſion ſuch a dead Calm, and the Air in ſuch a poſture of ſtagnation, that I well re<g ref="char:EOLhyphen"/>memember I took ſo far notice of it as to ſay not above two Hours before, That in the <hi>Ariſtotelian Philoſophy,</hi> ſuch a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was ever reputed one of the ſpecial <hi>Prognoſticks of an Earthquake.</hi>
+            </p>
+            <p n="2">2. That during this dreadful noiſe, neither the Trees, nor Plants be<g ref="char:EOLhyphen"/>trayed any Agitation or Motion in the Air: which confirms their N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, who have ſtiled Earthquakes, <hi>Subterranean Thunders;</hi> and 't<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s alſo a great prejudice to their Opinion, who would obtrude upon us the conceit of <hi>An<g ref="char:EOLhyphen"/>gels, or Spirits riding Poſt through the Air.</hi> For had that been the cauſe of this Noiſe, and Shaking, then, 1. The Motion would have <hi>born all one way,</hi> as coming from, and tending to a determinate Point; whereas here, no Motion was diſcernable but that of <hi>Trepidation.</hi> And 2. this violent Motion would have had the ſame effects with Storms, and Tempeſts, cau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the ſame diſturbance in the Air, toſſed the tops of Trees; for ſeeing that <hi>all Noiſe</hi> ariſes from the <hi>Colliſion of Bodies,</hi> to which there is required a <hi>Motion</hi> proportionable to <hi>the Noiſe.</hi> Had th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe ſuppoſed Spir<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts moved a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch a rate, as to beget <hi>that Noiſe,</hi> they muſt do it <hi>by Motion,</hi> wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld have diſcovered it ſelf in the common and ordinary effects of Moti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n un<g ref="char:EOLhyphen"/>leſs
+<pb n="4" facs="tcp:50023:3"/>
+we will again fly to ſupernatural Reaſons and Miracles. Now that there was no ſuch Commotion in the Air, is aſſerted by thoſe who were then abroad in the Fields, who were ſenſible of no ſuch diſturbance, and which indeed created, or augmented their wonderment.</p>
+            <p n="3">3. I obſerve that this Earth-quake (for ſuch I will now take the liberty to call it) was not <hi>univerſal,</hi> in reſpect either of the Towns, or Countries, where it came, but <hi>Topical;</hi> As being felt in <hi>one part of ſome Towns,</hi> and not in an other; and again, obſerved in <hi>ſome whole Towns,</hi> yet not at all in ſome Neighbouring Villages; following perhaps the inviting track of the Nitrous, and ſulphureous Veins, and guided by the attractive Steams of the inflammable materials. It was alſo <hi>Deſultory;</hi> The next Village to us but at half a miles diſtance knowing nothing of it, and yet ſome pla<g ref="char:EOLhyphen"/>ces more remote towards the ſame point ſharing in the Terror of it. And laſtly it was <hi>
+                  <g ref="char:V">Ʋ</g>nequal,</hi> both as to the Noiſe, and Trembling: and yet herein might poſſibly be a miſtake; for it might be from the weakneſs of their Houſes, the Multitude, and largeneſs of Windows, that the ſhaking was apprehended more terrible than in other places.</p>
+            <p n="4">4. Very few miſſed the notice of this particular; That juſt before the Concuſſion, the Air was very obſcure, and yet immediately after it cleared up and became very ſerene; And ſome do impute the former obſcurity to thoſe <hi>fuliginous Reeks</hi> which from the Bowels of the Earth might creep forth; and the <hi>after clearneſs</hi> to the violence of the diſcharged Subterrane<g ref="char:EOLhyphen"/>ous Thunder: But I muſt entreat you, Sir, for your ſatisfaction to go to the Philoſophers.</p>
+            <p>For that which will moſt profitably fill up the Remainder of my time, and ſheer, muſt be an enquiry of another Nature, <hi>viz. What good uſe, and practical improvement may be made of this great work of God?</hi> And my Pen will more chearfully travel in that Service: 1. Becauſe I perceive ſome too apt to <hi>abuſe theſe Appearances.</hi> For there are <hi>thoſe</hi> (by what <hi>Patent</hi> I know not) that would <hi>Monopolize</hi> all the Prodigious Works of God to <hi>their own uſe and behoof;</hi> As if the Almighty was bound to abett ſome ſingle Party, or to eſpouſe their little Intereſts; when as indeed to the im<g ref="char:EOLhyphen"/>partial Conſiderer his <hi>Works</hi> ſpeak the ſame language with his <hi>Word,</hi> which indifferently preaches to us all:<note place="margin">
+                  <hi>Hag.</hi> 1.5.</note> 
+               <hi>Now therefore thus ſaith the Lord of Hoſts, conſider your ways.</hi> And the <hi>Echo</hi> which all our hearts ſhould make to this voice of God,<note place="margin">
+                  <hi>Lam.</hi> 3.40.</note> is this, <hi>Let us ſearch and try our ways, and turn again to the Lord.</hi> There are <hi>thoſe alſo,</hi> who ſwelling with <hi>Atheiſtical Scorn,</hi> can throw up their Noſes at theſe Providences of God, and with one puff of contemptuous Arrogancy blow away all conſiderations of them, ſaying in their Hearts; <hi>Who is the Lord that we ſhould Tremble before him?</hi> And 2. the rather, becauſe the rare and unuſual Works of God have ever
+<pb n="5" facs="tcp:50023:3"/>
+been adjudged by the moſt Sober, and Temperate of Chriſtians to be War<g ref="char:EOLhyphen"/>nings and Awakenings to any people: Thus <hi>Euſebius</hi> of the Prodigies in <hi>Jeruſalem,</hi> tells us they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—And <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Eccleſ. Hiſt. Lib. <hi>3. c. 8.</hi>
+               </note> 
+               <hi>The evident Progno<g ref="char:EOLhyphen"/>ſticks of Future Judgments, and the very Sermons of God himſelf.</hi> And ſurely when <hi>the great God</hi> ſhall condeſcend to preach to a People by his <hi>Works</hi> who have ſo notably deſpiſed his <hi>Word,</hi> it will become High and Low, the Beſt and the Worſt of the Sons of Men, to be his <hi>Attentive Auditors.</hi>
+            </p>
+            <p n="1">(1.) Firſt then we may certainly learn a leſſon of Praiſe to God, that we were <hi>not all Buried in the Ruines of our own Habitations.</hi> He that <hi>ſhook our Houſes,</hi> could as eaſily have <hi>overturned our Houſes;</hi> but he ſhewed both his <hi>Greatneſs</hi> that he <hi>could</hi> do it, and yet his <hi>Goodneſs</hi> that he <hi>would not</hi> do it.</p>
+            <p>The unqueſtionable Records of Hiſtory do abound with Inſtances of this Nature: <hi>Joſephus</hi> informs us,<note place="margin">
+                  <hi>Antiqu.</hi> Lib. 15. <hi>De Bell.</hi> Jud. l. 2. c. 14.</note> that in the 7th year of <hi>Herod</hi> above <hi>ten thouſand perſons were overwhelmed by Earthquake in the Ruines of their Houſes:</hi> but I ſhall not attempt to reconcile himſelf to himſelf, when (ſpeaking of the ſame dreadful providence) he tells us, that <hi>there chanced a great Earthquake which ſlew thirty thouſand People.</hi>
+            </p>
+            <p>
+               <hi>Pliny</hi> in his Second Book of <hi>Nat. Hiſt.</hi> reports,<note place="margin">c. 48.</note> 
+               <hi>That in the Reign of</hi> Tib. Caeſar, <hi>there happened the greateſt Earthquake that ever was known in the Memory of Man, whereby Twelve Cities in</hi> Aſia <hi>were deſtroyed in one Night:</hi> But <hi>Nicephorus</hi> reckons Fourteen, and gives us their Names, <hi>Epheſus, Magneſia, Sardis, Moſthene, Hiero-caeſarea, Philadelphia, Tmolis, Timus, Myrina, Cyme, Apollonia, Hyrcana, Dia, Cybara.</hi> And I think it was the moſt remarkable Charity that <hi>cruel Emperor</hi> was ever guilty of, that he contributed to their Re-edifying. <hi>Ne Provincias ullâ Liberalitate ſub<g ref="char:EOLhyphen"/>levavit, exceptâ Aſiâ, disjectis terrae Motu Civitatibus:</hi>
+               <note place="margin">Sueto. <hi>in</hi> vit. Tib.</note> He never extended his bounty to any of the Provinces, excepting only <hi>Aſia,</hi> when ſo many Cities were deſtroyed by an Earthquake. But he that had <hi>ſo few good works</hi> to boaſt of, might well be allowed to be proud of that <hi>one,</hi> and therefore to eternize his Magnificence, he coined Money with this <hi>Memo<g ref="char:EOLhyphen"/>rative inſcription: Civitatibus Aſiae Reſtitutis:</hi> In memory of the Rebuild<g ref="char:EOLhyphen"/>ing the Aſiatick Cities.</p>
+            <p>Thus <hi>An. Mun.</hi> 3599. <hi>Deus</hi> Helicen, <hi>&amp;</hi> Muram, Achaiae <hi>urbes undis, terraeque hiatibus abſorpſit:</hi>
+               <note place="margin">Johan. de Mey. Sacr. Phyſ. Par. 2. <hi>cap.</hi> 3.</note> God (ſaith my Author) ſwallowed up <hi>Helice</hi> and <hi>Mura,</hi> two Cities of <hi>Achaia,</hi> with a Deluge, and Earthquake. And <hi>An. Chr.</hi> 1424. <hi>in</hi> Catalonia <hi>twenty one Cities were utterly deſtroyed, and</hi> Pertona <hi>devoured by Earthquake.</hi> And in <hi>Burgundy,</hi> a Mountain
+<pb n="6" facs="tcp:50023:4"/>
+removing out of its pla<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, deſtroyed many thouſands of the poor Husband<g ref="char:EOLhyphen"/>men.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pſal.</hi> 147.17.</note>The Pſalmiſt asks this Queſtion, <hi>Who can ſtand before his Cold?</hi> And certainly ſhould the <hi>Almighty</hi> let looſe upon us his <hi>Winter's Cold,</hi> or graduate the <hi>Summer's Heat;</hi> ſhould he take his Reſtraint from the Seas, which he holds <hi>in the Hollow of his Hand;</hi> or ſhould he pluck off his <hi>dou<g ref="char:EOLhyphen"/>ble Bridle</hi> with which he curbs the raging Storms, and foaming Tempeſts; ſhould he enlarge his commiſſion to <hi>Thunder, Lightning, Earthquakes,</hi> we muſt in one moment periſh. But <hi>the Lord reigneth,</hi> and therefore <hi>let the Earth rejoice,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 97.1.</note> 
+               <hi>let the Multitude of the Iſles be glad thereof.</hi> And let us amongſt the reſt acknowledg and rejoice that <hi>the Lord reigneth:</hi> for, as all <hi>Naturaliſts</hi> teach us, no places are ſo obnoxious to Earthquakes as I<g ref="char:EOLhyphen"/>ſlands; <hi>becauſe the Earth being there moſt Cavernous and Porous,</hi> admits the Humours,<note place="margin">Ariſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. <hi>2.</hi> Meteor.</note> of which are begotten Vapors, which ſtriving to deliver themſelves from Priſon, and Repelled by the Waves of the Sea, being rarified by violent motion, and requiring more room, force themſelves a paſſage, with moſt dreadful effects: No People in the World are ſo ob<g ref="char:EOLhyphen"/>liged to thankfulneſs as Iſlanders, being daily preſerved from <hi>Deluges and Earthquakes</hi> to which we are ſo lyable.</p>
+            <p n="2">(2.) Let the ſleepy World Awake, and the ſecure Sinner rowze up his ſluggiſh Soul to Repentance at theſe Leſſer Concuſſions, leſt God deſtroy them by Greater. Men are certainly in <hi>a deep, and dead ſleep</hi> when Earthquakes will not Alarm their Conſciences: If we diſpiſe him that thus ſpeaks to us <hi>from the Earth,</hi> the next time we may hear of him <hi>from Heaven.</hi> When our Heads, <hi>begin to ake,</hi> who can ſecure us that it ſhall not end in a Fever, which may put <hi>a period to our Lives?</hi> And when the Earth <hi>begins to Tremble,</hi> who knows whether it be not <hi>an Acceſſion</hi> towards that laſt, and great <hi>Ague fit</hi> of the Creation, wherein the Heavens, and the Earth, and all the Elements ſhall be blended in an Eternal Chaos? for we are warned from the unerring records of Holy Writ, that <hi>There ſhall be great Earthquakes,</hi>
+               <note place="margin">
+                  <hi>Luk.</hi> 21.11.</note> before the great and notable Day of the Lord come: which propheſy though it received a <hi>leſſer accompliſhment</hi> in the deſtruction of <hi>Jeruſalem,</hi> yet moſt learned Men are agreed, that theſe ſhall be the <hi>prodromous tokens</hi> of the D<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſolution of the World.</p>
+            <p>
+               <hi>Heathen Rome</hi> it ſelf had ſuch dreadful apprehenſions of Earthquakes, that upon theſe occaſions, they appointed <hi>ſolemn days of Sacrifice to their Gods:</hi>
+               <note place="margin">Sueton. <hi>in vitâ</hi> Claudii.</note> Nay the <hi>Hiſtorian</hi> obſerves it of <hi>Claudius Caeſar;</hi> that he gave or<g ref="char:EOLhyphen"/>der, <hi>ut quoties terra in urbe moviſſet, ferias, advooatâ concione, Praetor in<g ref="char:EOLhyphen"/>diceret:</hi> That as often as there was an Earthquake in the City, the Pre<g ref="char:EOLhyphen"/>tor ſhould proclaim a Holy Day. And <hi>A. Gellius</hi> obſerves that becauſe Philoſophers could not agree about the Natural cauſes, that therefore
+<pb n="7" facs="tcp:50023:4"/>
+whenever they decreed a ſolemn Day upon this Account, they never na<g ref="char:EOLhyphen"/>med the particular Deity to whom it was dedicated, (as otherwiſe the cu<g ref="char:EOLhyphen"/>ſtom was) leſt they ſhould miſtake the God that cauſed it; And that if the day were polluted, they expiated it by Sacrifice, <hi>Si Deo, ſi Doae,</hi> &amp;c. to that <hi>Numen</hi> at all adventures, whether it were <hi>God or Goddeſs.</hi> Agree<g ref="char:EOLhyphen"/>able to the practice of the <hi>Athenians,</hi> who in the time of a raging Peſti<g ref="char:EOLhyphen"/>lence, that they might be ſure to hit up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the right Deity, erected an Al<g ref="char:EOLhyphen"/>tar, and offered ſacrifice thereon, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to that God who was fit for the purpoſe:</hi> moſt probably the ſame which St. <hi>Paul</hi> found at <hi>A<g ref="char:EOLhyphen"/>thens</hi> with this inſcription, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>To the unknown God.</hi>
+               <note place="margin">
+                  <hi>Acts</hi> 17</note>
+            </p>
+            <p>And as the <hi>Roman Decemviri</hi> in theſe exigencies were enjoyned to con<g ref="char:EOLhyphen"/>ſult the <hi>Sibylline Oracles,</hi> ſo let us who have a <hi>more ſure word of Prophe<g ref="char:EOLhyphen"/>ſy,</hi> and to <hi>whom there is but one, the Living, and the true God,</hi> conſult the H ly Scriptures for our duty, which direct us to the Sacrifices of Prayer, Repentance, a Broken and Contrite Heart, and above all to our <hi>Advo<g ref="char:EOLhyphen"/>cate with the Father,</hi> to turn away his deſerved Wrath. And let us all make the ſame uſe of this,<note place="margin">
+                  <hi>Act.</hi> 16.30, 31.</note> which the <hi>Jayler</hi> made of his Earthquake and cry out, <hi>Sir's! what muſt we do to be Saved?</hi> and take the anſwer with thankfulneſs: <hi>Believe in the Lord Jeſus Chriſt, and you ſhall be Saved.</hi>
+            </p>
+            <p n="3">(3.) Let us ſearch out thoſe particular Sins for which God may have a Controverſy with us, Neglect, and Contempt, or at beſt an inconſidera<g ref="char:EOLhyphen"/>ble, and diſproportionable improvement of the Goſpel, Pride, fulneſs of Bread, Security, Worldlineſs, indifferency of Spirit in Religion. Chriſt charges <hi>Sardis,</hi> that ſhe had <hi>a Name to Live, and yet was Dead.</hi> And Hiſtory informs us that God reckoned with <hi>Aſia</hi> by Earthquakes about the 12 of <hi>Nero An. Chr.</hi> 68. Nothing leſs than a ſerious through-reformation of theſe abominati<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns will divert the diſpleaſure of God. What the Natu<g ref="char:EOLhyphen"/>ral Effects of Earthquakes have been, <hi>Naturaliſts</hi> are very liberal in their informations: How they have rent away ſome parts and limbs of a Coun<g ref="char:EOLhyphen"/>try from the main body; ſo was <hi>Sicily</hi> torn off from <hi>Italy;</hi> ſo was <hi>Cyprus</hi> forced from the continent of <hi>Syria; Euboea,</hi> from the main Land of <hi>Boeotia;</hi> and as ſome think, by an Earthquake was <hi>Britain</hi> divided from <hi>France.</hi> And how ſometimes they have heaved up Iſlands in the midſt of the Seas, as it were to compenſate the loſs of thoſe which they had ſwallowed up: Thus were <hi>Delos, Rhodus, Aenaria,</hi> with ſome others raiſed out of the Boſom of the Ocean, into which by the like cauſe they may again ſubſide. And how they have cauſed <hi>Peſtilential Contagions</hi> from that exhalation, which be<g ref="char:EOLhyphen"/>ing long pent up in the Bowels of the Earth contracts poiſonous qualities, which breaking forth, impreſs their Ve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em, and Malignity upon our Bodies; And how they cauſe <hi>barrenneſs of the Earth,</hi> from the ſame poiſonous exha<g ref="char:EOLhyphen"/>lations, which as they paſs through the pores of the Earth do not only leave a venemous Tincture in the Earth it ſelf, but deſtroy the ſeminal Particles of the Seeds already lodged in the Ground. Let the Natural Philoſophers
+<pb n="8" facs="tcp:50023:5"/>
+ſpend their verdict how they pleaſe; all I ſhall ſay is this, that they may <hi>ſignifie more to us then they can effect.</hi>
+            </p>
+            <p n="4">
+               <note place="margin">
+                  <hi>Pſal.</hi> 104.32.</note>(4.) Let us therefore own the Hand of God in theſe ſhakings: <hi>who looks upon the Earth and it ſhaketh, who toucheth the Hills and they Smoak.</hi> If a <hi>look</hi> of God can ſhake the Earth, what can his <hi>touch</hi> do? and if the <hi>Finger of God</hi> be ſo powerful, what is his <hi>Arm? Second Cauſes</hi> of theſe covulſive Motions, muſt be allowed, but not to joſtle out <hi>the Firſt,</hi> to whom the other are ſubordinate, concatinated to, and depend upon: Let the ſubtle <hi>Cardan, and Scaliger</hi> quarrel, and vex themſelves and others, whether <hi>Fire, Water, or Air</hi> be the true cauſes of theſe Commotions; Let others tell us how <hi>theſe Subterraneous Thunders owe their Birth to ſul<g ref="char:EOLhyphen"/>phureous,</hi>
+               <note place="margin">Pſeudo<g ref="char:EOLhyphen"/>dox. Epi<g ref="char:EOLhyphen"/>dem. <hi>p.</hi> 69</note> 
+               <hi>and Nitrous Veins fired, upon rarefaction, and forceing their way through reſiſting Bodies.</hi> Let the Heathens call their Idol <hi>Neptune</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">A. Gell. Noct. At. <hi>Lib.</hi> 2.</note> the great <hi>Earth-ſhaker;</hi> we are taught to eye, adore, and fear before the Lord, who hangs the Earth upon nothing, and can thither reduce it.</p>
+            <p n="5">(5.) Laſtly, let us labour to get an Intereſt in this great God, and live by Faith upon him,<note place="margin">
+                  <hi>Pſal.</hi> 46.2.</note> then ſhall we not need to <hi>fear though the Earth be removed.</hi>
+               <note place="margin">
+                  <hi>Pſa.</hi> 125.1.</note> 
+               <hi>For they that truſt in the Lord ſhall be as mount Sion, which can<g ref="char:EOLhyphen"/>not be removed, but ſtandeth faſt for ever.</hi>
+            </p>
+            <p>Thus far, Sir, at your Importunity I have drawn out this Diſcourſe, for your private entertainment and ſatisfaction: I have already exceeded the bounds of a Letter; And if the Remainder of my Paper will give me leave, I will take leave, when I have ſubſcribed my ſelf,</p>
+            <closer>
+               <dateline>
+                  <date>Jan. 18. 1675/6.</date>
+               </dateline>
+               <salute>Sir,</salute>
+               <signed>your humble Servant. <hi>N. N.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathaniel Ponder,</hi> at the Sign of the Peacock in <hi>Chancery-Lane,</hi> and in the <hi>Poultry,</hi> near <hi>Corn-Hill.</hi>
+            </p>
+            <pb facs="tcp:50023:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
